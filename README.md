@@ -1,6 +1,6 @@
 # ML_Foundatations_Part2_Introduction to Unsupervised Learning
 
-#  Unsupervised Learning : PCA & KDE
+#  Unsupervised Learning : K-Means, PCA & KDE
 
 This mini-project demonstrates the power of **unsupervised learning** through two core algorithms:  
 - **PCA (Principal Component Analysis)** for dimensionality reduction  
